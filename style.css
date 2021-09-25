@@ -3,3 +3,7 @@ body {
     text-align: center;
     padding: 20px;
 }
+
+h2 {
+    font-style: italic;
+}
